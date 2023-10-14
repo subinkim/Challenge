@@ -68,7 +68,7 @@ We don't have a real API for this challenge, so we added some utilities to simul
 
 ---
 
-# Bug 1: Select dropdown doesn't scroll with rest of the page
+# [DONE] Bug 1: Select dropdown doesn't scroll with rest of the page
 
 **How to reproduce:**
 
@@ -90,7 +90,7 @@ We don't have a real API for this challenge, so we added some utilities to simul
 
 **Actual:** Nothing happens
 
-# Bug 3: Cannot select _All Employees_ after selecting an employee
+# [DONE] Bug 3: Cannot select _All Employees_ after selecting an employee
 
 **How to reproduce:**
 
@@ -114,7 +114,7 @@ We don't have a real API for this challenge, so we added some utilities to simul
 
 **Actual:** New transactions replace initial transactions, losing initial transactions
 
-# Bug 5: Employees filter not available during loading more data
+# [DONE] Bug 5: Employees filter not available during loading more data
 
 _This bug has 2 wrong behaviors that will be fixed with the same solution_
 
@@ -142,7 +142,7 @@ _This bug has 2 wrong behaviors that will be fixed with the same solution_
 
 **Actual:** The employees filter shows "Loading employees..." after clicking **View more** until new transactions are loaded.
 
-# Bug 6: View more button not working as expected
+# [Done] Bug 6: View more button not working as expected
 
 _This bug has 2 wrong behaviors that can be fixed with the same solution. It's acceptable to fix with separate solutions as well._
 
